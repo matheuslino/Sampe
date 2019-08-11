@@ -10,7 +10,7 @@ Registration card management system in order to follow up young athletes from Pe
 
 ## Author
 
-* **[MatheusLino](https://github.com/matheuslino)**
+* **[Matheus Lino](https://github.com/matheuslino)**
 
 
 ## Version
